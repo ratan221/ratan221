@@ -26,6 +26,8 @@ I love coding challenges and discovering new technologies!
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ratan221&theme=dracula)
 
+### 🏅 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ratankumargupta685?theme=dark&font=Karma&ext=heatmap)
+
 ### 🔗 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/ratankumargupta12/)
-
