@@ -1,9 +1,5 @@
 # Hi, I'm Ratan Kumar Gupta! 👋
 
-<div align="right">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
-</div>
-
 ---
 
 ### 🚀 About Me
@@ -13,7 +9,7 @@
 - 🤔 Exploring: **Startups and Emerging Technologies**
 
 ### 💼 Work & Experiences
-- 💼 Summer Internship at **Salesforce**
+- Summer Internship at Salesforce 
 - 🧑‍💻 Core member and student coordinator in **Coding Club**
 
 ---
