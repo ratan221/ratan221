@@ -21,13 +21,7 @@
 
 ---
 
-### ⚡ Current Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratan221&show_icons=true&theme=radical" alt="Ratan's GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ratan221&theme=dracula" alt="Trophies" />
-</div>
 
----
 
 ### 🔥 Additional GitHub Stats
 <div align="center">
