@@ -9,7 +9,7 @@
 - 🤔 Exploring: **Startups and Emerging Technologies**
 
 ### 💼 Work & Experiences
-- Summer Internship at Salesforce 
+- Intern in Versa Networks 
 - 🧑‍💻 Core member and student coordinator in **Coding Club**
 
 ---
